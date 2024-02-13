@@ -1,0 +1,9 @@
+ - Iniciando o projeto com react native e expo GO 'npx create-expo-app --template'
+ - NavBar com typeScript
+ - Para iniciar o aplicativo 'npx expo start'
+ - Para fazer a estilização deste projeto será usado o tailwindcss (nativewind) para react-native para instalar 'npm install nativewind@2.0.11' e o 'npm install tailwindcss@3.3.2 --save-dev'
+ - Para utilizar o tailwindcss no native deve-se criar o arquivo de configuração na raiz do projeto 'npx tailwindcss init' também será feita uma modificação no arquivo de configuração
+ será colocado lá quais serão os tipos de arquivos e as pastas das quais os tailwindcss irá ser utilizado, também deve-se acrescentar no babel.config.json o plugin 'nativewind/babel' para rodar
+ o projeto com o tailwindcss deve-se rodar com o 'npx expo start --clear' para que seja feita a limpeza do cache.
+ - Instalando fontes 'npx expo install expo-font @expo-google-fonts/inter'
+ - Instalar o utilitario clsx 'npm install clsx'
