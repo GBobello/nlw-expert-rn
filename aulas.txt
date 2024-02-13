@@ -7,3 +7,4 @@
  o projeto com o tailwindcss deve-se rodar com o 'npx expo start --clear' para que seja feita a limpeza do cache.
  - Instalando fontes 'npx expo install expo-font @expo-google-fonts/inter'
  - Instalar o utilitario clsx 'npm install clsx'
+ - Para trabalhar com estados globais será utilizado o zustand 'npm install zustand'
