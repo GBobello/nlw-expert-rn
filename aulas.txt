@@ -11,3 +11,4 @@
  - Biblioteca para contornar o problema de o teclado do IOS não empurrar as informações para cima como o Android faz
  para instalar 'npm i react-native-keyboard-aware-scroll-view --save', deve-se colocar o componente ao redor da view/Input
  que vai necessitar deste tratamento.
+ - Agora vamos instalar uma biblioteca para persistir os dados da aplicação o nome é AsyncStorage 'npx expo install @react-native-async-storage/async-storage'
